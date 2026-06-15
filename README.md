@@ -1,17 +1,17 @@
 # My Toolbox
 
-个人工具集，包含日常开发与效率小工具。
+A personal collection of development and productivity tools.
 
-## 工具清单
+## Tools
 
-### todo — 本地日历待办工具
+### todo — Local Calendar Todo App
 
-纯前端单文件待办管理工具，基于 HTML + JavaScript 开发，无需安装环境、无需联网，双击即可运行。以月历为核心视图，支持待办的全生命周期管理、连续进度记录、系统通知提醒、数据导入导出备份。
+A pure frontend single-file todo management tool built with HTML + JavaScript. No installation or internet required — just double-click to run. Features a monthly calendar view with full todo lifecycle management, continuous progress logging, system notifications, and data backup/restore.
 
-功能亮点：月历视图、待办 CRUD、连续进度追加、系统通知、全量待办汇总（筛选+分页）、JSON 数据备份与跨设备迁移。
+Key features: monthly calendar view, todo CRUD, timestamped progress entries, desktop notifications, full todo summary with filtering and pagination, JSON data backup and cross-device migration.
 
-[查看完整说明 →](todo/README.md)
+[View full documentation →](todo/README.md)
 
-## 许可
+## License
 
 MIT License

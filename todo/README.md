@@ -56,7 +56,7 @@
 
 ## 三、使用方法
 ### 1. 运行方式
-将代码保存为 `calendar-todo.html` 文件，使用任意现代浏览器（Chrome、Edge、Firefox、Safari 等）双击打开即可使用，无需其他任何操作。
+将代码保存为 `todo-calendar.html` 文件，使用任意现代浏览器（Chrome、Edge、Firefox、Safari 等）双击打开即可使用，无需其他任何操作。
 
 ### 2. 基础操作
 1. **添加待办**：点击日历中任意日期格子，在弹窗中填写标题和内容，点击「添加」即可
